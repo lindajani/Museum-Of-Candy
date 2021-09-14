@@ -2,6 +2,10 @@ body {
     background-color: #f5d9f5;
     font-family: 'Nunito Sans', sans-serif;
 }
+h2 {
+    color:#ea1c2c;
+    font-weight: 100;
+}
 #mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
